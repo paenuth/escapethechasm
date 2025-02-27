@@ -1,1 +1,0 @@
-import{r as t,h as s,H as a}from"./index-roQL5kml.js";const o=":host{display:flex;flex-wrap:wrap}",r=o,c=class{constructor(e){t(this,e)}render(){return s(a,{key:"29ed5413502c575ff74a496ae6ee83ce375635b0"},s("slot",{key:"864af3ce3db31f98f7effb837fabec43f5a0a6ac"}))}};c.style=r;export{c as cpsl_row};
