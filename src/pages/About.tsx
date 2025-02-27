@@ -21,14 +21,14 @@ const About = () => {
         <div className="profileList">
           <CreatorProfile 
             name="Llyod" 
-            role="Front-end Developer" 
-            description="Designed front-end components" 
+            role="Game Artist & Front-end Developer" 
+            description="Designed front-end components and artworks, assets and animations" 
           />
           
           <CreatorProfile 
             name="Jhos" 
-            role="Game Artist" 
-            description="Created the artworks, assets and animations." 
+            role="Game Developer & UI/UX" 
+            description="Game Programmer - Handled User Interface and Experience" 
           />
           <CreatorProfile 
             name="Hane" 
@@ -38,7 +38,7 @@ const About = () => {
           <CreatorProfile 
             name="Adrean" 
             role="Game Developer" 
-            description="Game Programmer - Mechanics - Physics." 
+            description="Game Programmer - Design - Mechanics - Physics of the game" 
           />
         </div>
         
