@@ -1,3 +1,9 @@
+# About the Website
+
+This is the official website dedicated to the Hackathon event known as "Mammothon" AS a part of a submission to Parawallet "Arcade Games"
+
+It contains details about the game, "Escape The Chasm" which is an Arcade Platformer Shooter game made in a separate repo.
+
 # Para React Vite Starter Template
 
 This template provides a minimal setup to get Para working in a Vite + React application. It includes a basic Para
